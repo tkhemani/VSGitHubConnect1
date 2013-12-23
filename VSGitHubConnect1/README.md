@@ -18,3 +18,5 @@ New commit from remote causing conflict
 Localllllllllll
 
 locally
+
+changes since the rebase
