@@ -8,3 +8,5 @@ This line is changed from GitHub
 Changed again from GitHub
 
 Changed again from VS
+
+Testing git fetch
