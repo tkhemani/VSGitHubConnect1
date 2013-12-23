@@ -11,3 +11,5 @@ Changed again from VS
 
 Testing git fetch
 Testing git fetch again
+
+New commit from remote causing conflict
