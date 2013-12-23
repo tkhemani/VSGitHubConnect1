@@ -18,3 +18,4 @@ New commit from remote causing conflict
 Localllllllllll
 
 locally
+COmmit in a
